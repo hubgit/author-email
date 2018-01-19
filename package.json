@@ -22,8 +22,12 @@
   "scripts": {
     "dev": "nodemon --exec babel-node -- src",
     "test": "jest --watch",
+    "deploy": "now --public",
     "prebuild": "rimraf dist",
     "build": "babel src --out-dir dist",
     "start": "node dist"
+  },
+  "now": {
+    "alias": "author-email"
   }
 }
