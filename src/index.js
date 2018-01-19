@@ -1,6 +1,8 @@
 const express = require('express')
 const cors = require('cors')
-const eutils = require('./pmc')
+
+const pubmed = require('./pubmed')
+const pmc = require('./pmc')
 
 const app = express()
 app.set('json spaces', 2)
@@ -16,23 +18,29 @@ app.use('/author', (req, res) => {
   }
 
   const authorByPosition = results => {
-    if (!results.length) throw new Error('No matches')
+    if (!results.length) return null
 
-    const { title, authors } = results[0]
+    const { source, id, title, authors } = results[0]
 
     if (!authors[position]) throw new Error('Position not found')
 
     const { name, email } = authors[position]
 
-    return { title, name, email }
+    return { source, id, title, author: { name, email } }
   }
 
-  eutils.search({ term })
-    .then(eutils.fetch({ retmax: 1 }))
-    .then(eutils.parse)
-    .then(authorByPosition)
-    .then(output => {
-      res.json(output)
+  Promise.all([
+    pubmed.search({ term })
+      .then(pubmed.fetch({ retmax: 1 }))
+      .then(pubmed.parse)
+      .then(authorByPosition),
+
+    pmc.search({ term })
+      .then(pmc.fetch({ retmax: 1 }))
+      .then(pmc.parse)
+      .then(authorByPosition)
+  ]).then(output => {
+      res.json(output.filter(item => item))
     })
     .catch(e => {
       res.json({

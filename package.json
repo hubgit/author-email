@@ -4,6 +4,7 @@
   "main": "dist",
   "author": "Alf Eaton <eaton.alf@gmail.com>",
   "license": "MIT",
+  "files": ["src", "dist", ".babelrc"],
   "dependencies": {
     "axios": "^0.17.1",
     "cors": "^2.8.4",

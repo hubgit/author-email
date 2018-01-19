@@ -16,6 +16,8 @@ module.exports = {
     })
 
     const parseArticle = article => ({
+      source: 'pubmed',
+      id: article.get('string(../PMID)'),
       title: article.get('string(ArticleTitle)'),
       authors: article.find('AuthorList/Author').map(parseAuthor)
     })

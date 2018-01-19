@@ -13,6 +13,8 @@ module.exports = {
     })
 
     const parseArticle = article => ({
+      source: 'pmc',
+      id: article.get('string(front/article-meta/article-id[@pub-id-type="pmc"])'),
       title: article.get('string(front/article-meta/title-group/article-title[1])'),
       authors: article.find('front/article-meta/contrib-group/contrib').map(parseAuthor)
     })
