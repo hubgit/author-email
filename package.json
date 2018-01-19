@@ -1,0 +1,31 @@
+{
+  "name": "author-email",
+  "version": "1.0.0",
+  "main": "dist",
+  "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fs-extra": "^5.0.0",
+    "libxmljs": "^0.18.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-async-generator-functions": "^6.24.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "jest": "^22.1.0",
+    "nodemon": "^1.14.11",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node -- src",
+    "test": "jest --watch",
+    "prebuild": "rimraf dist",
+    "build": "babel src --out-dir dist",
+    "start": "node dist"
+  }
+}

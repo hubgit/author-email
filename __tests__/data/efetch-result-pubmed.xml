@@ -1,0 +1,483 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">28814268</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Aug</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The genomic architecture of mastitis resistance in dairy sheep.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>624</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12864-017-3982-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mastitis is the most prevalent disease in dairy sheep with major economic, hygienic and welfare implications. The disease persists in all dairy sheep production systems despite the implementation of improved management practises. Selective breeding for enhanced mastitis resistance may provide the means to further control the disease. In the present study, we investigated the genetic architecture of four mastitis traits in dairy sheep. Individual animal records for clinical mastitis occurrence and three mastitis indicator traits (milk somatic cell count, total viable bacterial count in milk and the California mastitis test) were collected monthly throughout lactation for 609 ewes of the Greek Chios breed. All animals were genotyped with a custom-made 960-single nucleotide polymorphism (SNP) DNA array based on markers located in quantitative trait loci (QTL) regions for mastitis resistance previously detected in three other distinct dairy sheep populations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Heritable variation and strong positive genetic correlations were estimated for clinical mastitis occurrence and the three mastitis indicator traits. SNP markers significantly associated with these mastitis traits were confirmed on chromosomes 2, 3, 5, 16 and 19. We identified pathways, molecular interaction networks and functional gene clusters for mastitis resistance. Candidate genes within the detected regions were identified based upon analysis of an ovine transcriptional atlas and transcriptome data derived from milk somatic cells. Relevant candidate genes implicated in innate immunity included SOCS2, CTLA4, C6, C7, C9, PTGER4, DAB2, CARD6, OSMR, PLXNC1, IDH1, ICOS, FYB, and LYFR.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results confirmed the presence of animal genetic variability in mastitis resistance and identified genomic regions associated with specific mastitis traits in the Chios sheep. The conserved genetic architecture of mastitis resistance between distinct dairy sheep breeds suggests that across-breed selection programmes would be feasible.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banos</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Scotland's Rural College, Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Veterinary Medicine, Aristotle University of Thessaloniki, 54124, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bramis</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Veterinary Medicine, Aristotle University of Thessaloniki, 54124, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bush</LastName>
+                    <ForeName>S J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>E L</ForeName>
+                    <Initials>EL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCulloch</LastName>
+                    <ForeName>M E B</ForeName>
+                    <Initials>MEB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schulze</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Informatics, University of Bergen, 5008, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arsenos</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Veterinary Medicine, Aristotle University of Thessaloniki, 54124, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hume</LastName>
+                    <ForeName>D A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Psifidi</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush, Midlothian, EH25 9RG, UK. androniki.psifidi@roslin.ed.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Royal Veterinary College, University of London, AL9 7TA, Hatfield, UK. androniki.psifidi@roslin.ed.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1998 May 7;16(18):2381-7</RefSource>
+                <PMID Version="1">9620555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Aug 6;279(32):33946-57</RefSource>
+                <PMID Version="1">15173171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2008 Mar;45(5):1385-97</RefSource>
+                <PMID Version="1">17936907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2016 May;34(5):525-7</RefSource>
+                <PMID Version="1">27043002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2013 Jan 16;14:36</RefSource>
+                <PMID Version="1">23324411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2016 Mar 02;11(3):e0148562</RefSource>
+                <PMID Version="1">26933871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Jan 25;277(4):2614-9</RefSource>
+                <PMID Version="1">11706038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Immunol Immunopathol. 2002 Sep 25;88(3-4):103-10</RefSource>
+                <PMID Version="1">12127409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2011 Apr 28;12:208</RefSource>
+                <PMID Version="1">21527017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Vet Res. 2016 Jul 28;12 (1):158</RefSource>
+                <PMID Version="1">27464952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Immunol Immunopathol. 2007 Dec 15;120(3-4):201-11</RefSource>
+                <PMID Version="1">17658619</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2014 Mar 27;507(7493):462-70</RefSource>
+                <PMID Version="1">24670764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Biol. 2012 Nov 15;10:90</RefSource>
+                <PMID Version="1">23153189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 May 15;23(10):1294-6</RefSource>
+                <PMID Version="1">17384015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 May 01;9(5):e94623</RefSource>
+                <PMID Version="1">24788864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Jul 21;95(15):8779-84</RefSource>
+                <PMID Version="1">9671755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1996 Aug 1;24(15):3100-6</RefSource>
+                <PMID Version="1">8760900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2016;900:45-59</RefSource>
+                <PMID Version="1">27003396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2003 Apr;86(4):1259-67</RefSource>
+                <PMID Version="1">12741551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Animal. 2009 Mar;3(3):415-36</RefSource>
+                <PMID Version="1">22444313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2004 Mar;126(3):829-39</RefSource>
+                <PMID Version="1">14988837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Rheumatol. 2003 Jun;30(6):1157-63</RefSource>
+                <PMID Version="1">12784384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Res Vet Sci. 2012 Feb;92(1):13-7</RefSource>
+                <PMID Version="1">21074231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anim Genet. 2009 Dec;40(6):832-51</RefSource>
+                <PMID Version="1">19508288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1997 Aug 8;237(1):79-83</RefSource>
+                <PMID Version="1">9266833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastroenterol Hepatol. 2004 Feb;19(2):174-81</RefSource>
+                <PMID Version="1">14731127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1999 Jan 21;397(6716):263-6</RefSource>
+                <PMID Version="1">9930702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Microbiol. 2015 Dec 14;181(1-2):2-7</RefSource>
+                <PMID Version="1">26260859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Dec 20;271(51):32635-43</RefSource>
+                <PMID Version="1">8999038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Jun 16;22(12 ):3084-94</RefSource>
+                <PMID Version="1">12805222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2009 Mar;92(3):1203-19</RefSource>
+                <PMID Version="1">19233814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2015 Dec 11;11(12):e1005629</RefSource>
+                <PMID Version="1">26658352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Res. 2003 Sep-Oct;34(5):671-88</RefSource>
+                <PMID Version="1">14556700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2002 Jun;85(6):1460-7</RefSource>
+                <PMID Version="1">12146477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2015 Jan 30;10(1):e0115960</RefSource>
+                <PMID Version="1">25635817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2009 Jul;92(7):3124-33</RefSource>
+                <PMID Version="1">19528590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2005 Jan 15;21(2):263-5</RefSource>
+                <PMID Version="1">15297300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2015 Feb 06;10(2):e0114919</RefSource>
+                <PMID Version="1">25658712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2010 Mar 15;26(6):841-2</RefSource>
+                <PMID Version="1">20110278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Sep 11;273(37):24095-101</RefSource>
+                <PMID Version="1">9727029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Gene Ther. 2003 Apr 10;14(6):521-32</RefSource>
+                <PMID Version="1">12718763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2003;4(5):P3</RefSource>
+                <PMID Version="1">12734009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Rep. 2002 Jul;3(7):616-21</RefSource>
+                <PMID Version="1">12101092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2014 Mar 7;343(6175):1246949</RefSource>
+                <PMID Version="1">24604202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2009 Jul;92(7):3457-71</RefSource>
+                <PMID Version="1">19528624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2014 Apr;11(4):407-9</RefSource>
+                <PMID Version="1">24531419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Microbiol. 2016 Mar 14;7:319</RefSource>
+                <PMID Version="1">27014240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1994 Aug;1(5):405-13</RefSource>
+                <PMID Version="1">7882171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Microbiol. 2015 Dec 14;181(1-2):136-46</RefSource>
+                <PMID Version="1">26216457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2014 Jun 6;344(6188):1168-1173</RefSource>
+                <PMID Version="1">24904168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Res. 2006 Mar-Apr;37(2):219-29</RefSource>
+                <PMID Version="1">16472521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2003 Jan;86(1):369-75</RefSource>
+                <PMID Version="1">12613880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2002 May;3(5):331-41</RefSource>
+                <PMID Version="1">11967127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2009 Apr;129(4):954-63</RefSource>
+                <PMID Version="1">18987670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Res Commun. 1987;11(1):15-22</RefSource>
+                <PMID Version="1">3472411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2015 Sep 22;6(28):25484-98</RefSource>
+                <PMID Version="1">26329521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2012 Feb;10(2):e1001258</RefSource>
+                <PMID Version="1">22346734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2007 Sep;81(3):559-75</RefSource>
+                <PMID Version="1">17701901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem Mol Biol. 2002 Jan 31;35(1):19-23</RefSource>
+                <PMID Version="1">16248965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Zentralbl Veterinarmed A. 1991 Jul;38(6):445-59</RefSource>
+                <PMID Version="1">1950235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2006 Mar;74(3):1907-15</RefSource>
+                <PMID Version="1">16495566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Jan;43(Database issue):D662-9</RefSource>
+                <PMID Version="1">25352552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>F1000Res. 2015 Dec 30;4:1521</RefSource>
+                <PMID Version="2">26925227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Data. 2016 Jul 05;3:160051</RefSource>
+                <PMID Version="1">27377755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2016 Aug;99(8):6446-56</RefSource>
+                <PMID Version="1">27265177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1988;57:321-47</RefSource>
+                <PMID Version="1">3052276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2015 Dec 18;5:18399</RefSource>
+                <PMID Version="1">26677795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dairy Sci. 2014;97(6):3531-41</RefSource>
+                <PMID Version="1">24679930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006 Sep 06;7 Suppl 2:S13</RefSource>
+                <PMID Version="1">17118134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2003 Aug 15;308(1):170-6</RefSource>
+                <PMID Version="1">12890497</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">California mastitis test</Keyword>
+            <Keyword MajorTopicYN="N">Chios sheep</Keyword>
+            <Keyword MajorTopicYN="N">Dairy sheep</Keyword>
+            <Keyword MajorTopicYN="N">Genomic association</Keyword>
+            <Keyword MajorTopicYN="N">Mastitis</Keyword>
+            <Keyword MajorTopicYN="N">Milk transcriptome</Keyword>
+            <Keyword MajorTopicYN="N">Sheep transcriptomic atlas</Keyword>
+            <Keyword MajorTopicYN="N">Somatic cell count</Keyword>
+            <Keyword MajorTopicYN="N">Total viable bacterial count</Keyword>
+            <Keyword MajorTopicYN="N">Transcription factor binding sites</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28814268</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12864-017-3982-1</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12864-017-3982-1</ArticleId>
+            <ArticleId IdType="pmc">PMC5559839</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
